@@ -68,4 +68,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou e
 
 ## Autor
 
-Seu Nome - [Seu GitHub](https://github.com/seu-usuario)
+Seu Nome - [Seu GitHub](https://github.com/avontzsz)
