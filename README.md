@@ -68,4 +68,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou e
 
 ## Autor
 
-Arthur Miguel - [Meu github](https://github.com/avontzsz)
+Arthur Miguel - [link](https://github.com/avontzsz)
